@@ -9,7 +9,17 @@ checkpoints/*.vocab
 checkpoints/*.model
 checkpoints/.cache
 outputs/
+output/
 build/
 *.py[cod]
 *.egg-info/
 .venv
+# 音频文件
+*.wav
+*.mp3
+*.flac
+*.m4a
+# 测试数据
+test_data/
+# 个人的音源文件
+我的音源勿动/
