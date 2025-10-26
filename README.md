@@ -1,3 +1,10 @@
+此项目是用win系统的wsl部署
+启动项目
+wsl
+cd /mnt/e/AI-bushu/index-tts
+uv run webui.py
+
+---------------
 
 <div align="center">
 <img src='assets/index_icon.png' width="250"/>
